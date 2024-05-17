@@ -6,13 +6,14 @@ TinyCodeURL is a Python code that empowers you to create short, easy-to-manage v
 
 Features:
 
-Shorten URLs: Generate concise, random character codes for your long links.
-Easy to Use: Simple one-line function to shorten a URL.
-Clear Error Handling: Invalid URLs are gracefully handled with informative messages.
+* Shorten URLs: Generate concise, random character codes for your long links.
+* Easy to Use: Simple one-line function to shorten a URL.
+* Clear Error Handling: Invalid URLs are gracefully handled with informative messages.
 
 Requirements:
 
 Install required dependencies ($ pip install pyshorteners).
+
 Usage:
 
 * Fork this repo and navigate to TinyCodeURL folder.
