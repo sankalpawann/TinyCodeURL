@@ -1,5 +1,5 @@
 """ 
-https://www.linkedin.com/in/prasad-sankalpa-0267b4218/
+example web link : https://www.linkedin.com/in/prasad-sankalpa-0267b4218/
  """
 
 import pyshorteners as psh
